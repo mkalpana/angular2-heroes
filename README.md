@@ -1,6 +1,6 @@
 # Angular 2 Heroes Application
 
-This is an Angular 2 quick start project using Typescript.
+This is an Angular 2 Heroes application using Typescript.
 
 ## Prerequisites
 
