@@ -9,6 +9,7 @@ You will need the following software to run this application.
 1. Git
 2. Node
 3. Npm
+4. http-server npm module installed globally (optional)
 
 ## Running the application
 
@@ -20,8 +21,14 @@ Install the node modules
 
 `npm i`
 
-Run the application
+Run the application in development mode using:
 
 `npm start`
 
 Browse the application at `http://localhost:3000/`
+
+Alternatively, the application can be run using:
+               
+`http-server`
+               
+Browse the application at `http://localhost:8080/`
